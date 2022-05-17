@@ -17,7 +17,7 @@ public class P0516_4 {
 		int[] month = {31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}; 
 		
 		//일 수 계산
-		int date = 0;
+		int date = 0; 
 		
 		//해당 월까지 일 수 계산
 		for(int i=0; i<a-1; i++) { 

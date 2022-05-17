@@ -38,7 +38,7 @@ public class P0517_2 {
 	
 	public static void main(String[] args) {
 
-		System.out.println(solution(45)); 
+		System.out.println(solution(45));
 		
 	}
 

@@ -1,7 +1,7 @@
 package com.jisu.programmers;
 
 public class P0517_2 {
-	//3진법 뒤집기_내 풀이
+	//3진법 뒤집기_내 풀이 
 	
 	public static int solution(int n) {
 		

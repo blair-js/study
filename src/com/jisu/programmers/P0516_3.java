@@ -1,7 +1,7 @@
 package com.jisu.programmers;
 
 public class P0516_3 {
-	//최소직사각형
+	//최소직사각형 
 	
 	public static int solution(int[][] sizes) {
 		

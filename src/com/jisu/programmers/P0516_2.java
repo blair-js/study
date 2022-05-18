@@ -1,7 +1,7 @@
 package com.jisu.programmers;
 
 public class P0516_2 {
-	//나머지가 1이 되는 수 찾기
+	//나머지가 1이 되는 수 찾기 
 	
 	public static void main(String[] args) {
 
